@@ -4,7 +4,7 @@ title: ABAC APP TERMS & CONDITIONS
 nav_order: 3
 ---
 
-# **PHLPOST APP TERMS & CONDITIONS**
+# **ABAC APP TERMS & CONDITIONS**
 
 <p align="center">Last Revised: September 19,2022</p>
 
