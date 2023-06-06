@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PHLPOST APP PRIVACY POLICY
+title: ABAC APP PRIVACY POLICY
 nav_order: 2
 ---
 
@@ -10,13 +10,13 @@ nav_order: 2
     }
 </style>
 
-# **PHLPost App Data Privacy Notice**
+# **ABAC App Data Privacy Notice**
 
 <p align="center">Last Revised: September 19,2022</p>
 
 <br/>
 
-‎ ‎ ‎ ‎ Philpost and the Consortium of GRP Mobile Solutions Ins. and Expresspay Inc. are committed to protecting the Personal Data we collect, use, process and disclose through the use of the Philpost App, as well as other products and services availed therein.
+‎ ‎ ‎ ‎ ABAC are committed to protecting the Personal Data we collect, use, process and disclose through the use of the ABAC App, as well as other products and services availed therein.
 
 ‎ ‎ ‎ ‎ We respect your right to know how we collect, use and protect your Personal Information. That’s why we are giving this notice to inform you on how we process your Personal Information. By using the mobile application, you agree to the terms of this privacy policy stated below. We encourage you to review the following carefully so that you understand our privacy practices.
 

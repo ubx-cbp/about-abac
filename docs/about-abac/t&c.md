@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PHLPOST APP TERMS & CONDITIONS
+title: ABAC APP TERMS & CONDITIONS
 nav_order: 3
 ---
 
@@ -10,7 +10,7 @@ nav_order: 3
 
 <br/>
 
-‎ ‎ ‎ ‎ Welcome to the Philpost App. Please read these TERMS AND CONDITIONS (T&Cs) prior to completing the creation of an account with us. The following T&Cs shall govern the terms under which you may access and use the products of the Philpost app and the services associated with it. By using the PHLPost App, you accept and agree to be legally bound by the T&Cs. Please also read the <a href="https://www.phlpost.me/about-phlpost/privacy-policy.html">Privacy Policy</a> of the PhilPost App before you use any portion of the PHLPost App Service. The Privacy Policy describes how your personal data is collected and processed when you use the PHLPost Service. If you do not understand or do not wish to be bound by the T&Cs or Privacy Policy, you should not access or use any portion of the PHLPost Service.
+‎ ‎ ‎ ‎ Welcome to the ABAC App. Please read these TERMS AND CONDITIONS (T&Cs) prior to completing the creation of an account with us. The following T&Cs shall govern the terms under which you may access and use the products of the Philpost app and the services associated with it. By using the PHLPost App, you accept and agree to be legally bound by the T&Cs. Please also read the <a href="https://www.phlpost.me/about-phlpost/privacy-policy.html">Privacy Policy</a> of the PhilPost App before you use any portion of the PHLPost App Service. The Privacy Policy describes how your personal data is collected and processed when you use the PHLPost Service. If you do not understand or do not wish to be bound by the T&Cs or Privacy Policy, you should not access or use any portion of the PHLPost Service.
 These T&Cs shall be effective, valid and binding from the time you agreed to it and will exist up to the time that it is terminated by you or us, save for those provisions that will remain effective after termination as stated in these T&Cs, laws or regulations.
 
 ‎ ‎ ‎ ‎ The Post Office and the Consortium of GRP Mobile Solutions Inc and Expresspay Inc reserves the right to modify these T&Cs at any time without any advance notice. Any changes to these T&Cs will be effective immediately upon posting on this page, with an updated effective date. By accessing or using the PHLPost App after any changes have been made, you signify your agreement on a prospective basis to the modified T&Cs and all the changes. Be sure to review this page periodically to ensure familiarity with most current version of the T&Cs.
