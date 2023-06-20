@@ -48,6 +48,8 @@ nav_order: 2
 
 ‎ ‎ ‎ ‎ Requests for access or correction to your Personal Data may be allowed provided we are not legally prohibited from doing so. You have the right to ask for copy of any Personal Data we hold about you, as well as to ask for it to be corrected if you think it is wrong.
 
+‎ ‎ ‎ ‎ Requests for deletion of account is allowed by contacting the customer service thru hello@ubx.ph.
+
 ‎ ‎ ‎ ‎ The security of your Personal Data, in paper and electronic format, is important to us and we take reasonable steps to protect it from misuse, interference, loss, unauthorized access, modification, and unauthorized disclosure. Should there be a need to store your Personal Data with a third party data storage providers, we use contractual arrangements to ensure that those providers take appropriate measures that are aligned with the data privacy laws of the Philippines.
 
 ‎ ‎ ‎ ‎ Retention of your Personal Data shall be done for the period necessary to fulfill the purposes stated in this Privacy Notice unless a longer retention period is required or allowed by law. Once your Personal Data is no longer necessary for the purposes stated herein, or we have no longer have a legal or business purpose for retaining your Personal Data, we will take steps to erase, destroy, anonymize or prevent access or use of such Personal Data for any purpose other than compliance with this Privacy Notice, or for purposes of safety, security, fraud prevention and detection, in accordance with the requirements of applicable laws.
