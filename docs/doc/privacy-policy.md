@@ -12,7 +12,7 @@ nav_order: 2
 
 # **ABAC App Data Privacy Notice**
 
-<p align="center">Last Revised: June 15,20223/p>
+<p align="center">Last Revised: June 15,20223</p>
 
 <br/>
 
