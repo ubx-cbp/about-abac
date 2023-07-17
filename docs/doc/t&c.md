@@ -6,7 +6,7 @@ nav_order: 3
 
 # **ABAC APP TERMS & CONDITIONS**
 
-<p align="center">Last Revised: June 15,2023</p>
+<p align="center">Last Revised: July 17,2023</p>
 
 <br/>
 
@@ -27,6 +27,8 @@ Definitions appearing in these T&Cs shall have the meanings ascribed to them bel
 • ABAC Concierge App shall refer to the ABAC Concierge App application running on mobile devices where the ABAC delegate can access the ABAC Concierge App.
 
 • “ABAC Concierge App customer” and “ABAC delegate” shall refer to a person who uses the ABAC Concierge App or avails for the ABAC Concierge App Service.
+
+• This concierge app is intended for all ABAC members and staffers as reference for the  ABAC III Meeting on July 27 to 30, 2023 in Cebu City, Philippines. Invited guests and delegates may also be able to access this app for information purposes only.
 
 ## ‎ ‎ ‎ ‎ 3. TERMINATION / CANCELLATION OF USE
 
