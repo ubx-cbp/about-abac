@@ -60,27 +60,6 @@ nav_order: 1
     }
 </style>
 
-<table id="main-table">
-  <tr>
-    <td id="text-details">
-      <table id="details">
-        <tr>
-          <td id="table-title"><b>Address</b></td>
-        </tr>
-        <tr>
-          <td style="color:#2B2D3280;">
-            Magallanes Drive, Liwasang Bonifacio Brgy. 659-A, Ermita 1000 Manila
-          </td>
-        </tr>
-      </table>
-    </td>
-      <td id="icon-image">
-        <picture><img alt="Address" align="center" src="../assets/img/pin-drop.png"></picture>
-      </td>
-  </tr>
-</table>
-
-<br/>
 
 <table id="main-table">
   <tr>
@@ -90,7 +69,7 @@ nav_order: 1
           <td id="table-title"><b>Hotline</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">(02) - 8527 0111 / 8527 0107</td>
+          <td style="color:#2B2D3280">+63 920 978 8404</td>
         </tr>
       </table>
     </td>
@@ -110,7 +89,10 @@ nav_order: 1
           <td id="table-title"><b>Email</b></td>
         </tr>
         <tr>
-          <td style="color:#2B2D3280">phlpostcares@phlpost.gov.ph</td>
+          <td style="color:#2B2D3280">hello@ubx.ph</td>
+        </tr>
+        <tr>
+          <td style="color:#2B2D3280">secretariat@abac.ph</td>
         </tr>
       </table>
     </td>
@@ -120,62 +102,3 @@ nav_order: 1
   </tr>
 </table>
 
-<br/>
-
-<table id="main-table">
-  <tr>
-    <td id="text-details">
-      <table id="details">
-        <tr>
-          <td id="table-title"><b>Website</b></td>
-        </tr>
-        <tr>
-          <td style="color:#2B2D3280">www.phlpost.gov.ph</td>
-        </tr>
-      </table>
-    </td>
-      <td id="icon-image">
-        <picture><img alt="Website" align="center" src="../assets/img/web.png"></picture>
-      </td>
-  </tr>
-</table>
-
-<br/>
-
-<table id="main-table">
-  <tr>
-    <td id="text-details">
-      <table id="details">
-        <tr>
-          <td id="table-title"><b>FB Messenger</b></td>
-        </tr>
-        <tr>
-          <td style="color:#2B2D3280">m.me/PHLPost</td>
-        </tr>
-      </table>
-    </td>
-      <td id="icon-image">
-        <picture><img alt="FB Messenger" align="center" src="../assets/img/messenger.png"></picture>
-      </td>
-  </tr>
-</table>
-
-<br/>
-
-<table id="main-table">
-  <tr>
-    <td id="text-details">
-      <table id="details">
-        <tr>
-          <td id="table-title"><b>Twitter</b></td>
-        </tr>
-        <tr>
-          <td style="color:#2B2D3280">@postofficeph</td>
-        </tr>
-      </table>
-    </td>
-      <td id="icon-image">
-        <picture><img alt="Twitter" align="center" src="../assets/img/twitter.png"></picture>
-      </td>
-  </tr>
-</table>
